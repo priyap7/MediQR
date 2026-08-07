@@ -11,7 +11,10 @@ function Hero() {
   const t = translations[language];
 
   return (
-    <section className="min-h-screen bg-slate-100 flex items-center justify-center px-6">
+    <section
+      id="home"
+      className="scroll-mt-24 min-h-screen bg-slate-100 flex items-center justify-center px-6"
+    >
       <div className="max-w-md w-full bg-white rounded-3xl shadow-2xl p-8 text-center">
 
         <div className="flex justify-center mb-6">

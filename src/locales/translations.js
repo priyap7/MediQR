@@ -1,86 +1,148 @@
 const translations = {
   en: {
-    heroTitle: "Your Digital Health Profile",
-    heroSubtitle:
-      "Store your medical records safely and access them anytime with MediQR.",
-    getStarted: "Get Started",
-
     nav: {
       home: "Home",
       services: "Services",
-      about: "About",
-      contact: "Contact",
-      login: "Login",
+      about: "About Us",
+      contact: "Contact Us",
     },
+
+    heroTitle: "Maa Pitambara Medical Store",
+
+    heroSubtitle:
+      "Your trusted digital pharmacy profile for medicines, healthcare and services.",
+
 
     servicesTitle: "Our Services",
 
-    service1: "Digital Medical Records",
+    service1: "Medicines",
     service1Desc:
-      "Store and manage your medical documents securely in one place.",
+      "Quality medicines available for your healthcare needs.",
 
-    service2: "Quick Health Access",
+    service2: "Prescription Support",
     service2Desc:
-      "Access your health information anytime with your MediQR profile.",
+      "Get assistance with your medical prescriptions.",
 
-    service3: "Secure & Private",
+    service3: "Health Products",
     service3Desc:
-      "Your medical data stays protected with safe digital storage.",
+      "Healthcare products for your daily wellness needs.",
 
-    aboutTitle: "About MediQR",
+
+    aboutTitle: "About Us",
+
     aboutDescription:
-      "MediQR helps you store, manage and access your medical records digitally in a safe and simple way.",
+      "Maa Pitambara Medical Store is a trusted healthcare partner providing quality medicines, genuine healthcare products, and reliable support for your family's well-being. We focus on safe, convenient, and customer-friendly pharmacy services with care and responsibility.",
+
 
     contactTitle: "Contact Us",
-    address: "Maa Pitambara Medical Store, Gormii",
-    phone: "9713909461",
-    email: "romeesin@gmail.com",
+
+    addressLabel: "Address",
+    address: "Gormi Main Road, Gormi, Madhya Pradesh 477660",
+
+    phoneLabel: "Phone",
+
+    emailLabel: "Email",
+
+    instagramLabel: "Instagram",
+
+
+    findUs: "Find Us",
+
+    qrTitle: "Maa Pitambara Medical Store QR",
+
+    qrDescription:
+      "Scan this QR code to instantly open the official digital profile of Maa Pitambara Medical Store.",
+
 
     hoursTitle: "Opening Hours",
-    timing: "Monday - Sunday: 8 AM - 9 PM",
-    sunday: "Sunday: Open",
+
+    timing:
+      "Monday - Sunday : 8:30 AM - 9:00 PM",
+
+    sunday:
+      "",
+
   },
 
+
   hi: {
-    heroTitle: "आपकी डिजिटल हेल्थ प्रोफाइल",
-    heroSubtitle:
-      "अपने मेडिकल रिकॉर्ड को सुरक्षित रखें और कभी भी एक्सेस करें MediQR के साथ।",
-    getStarted: "शुरू करें",
 
     nav: {
       home: "होम",
       services: "सेवाएं",
       about: "हमारे बारे में",
       contact: "संपर्क करें",
-      login: "लॉगिन",
     },
+
+
+    heroTitle: "माँ पीताम्बरा मेडिकल स्टोर",
+
+    heroSubtitle:
+      "दवाइयों, स्वास्थ्य सेवाओं और सुविधाओं के लिए आपका भरोसेमंद डिजिटल मेडिकल प्रोफाइल।",
+
 
     servicesTitle: "हमारी सेवाएं",
 
-    service1: "डिजिटल मेडिकल रिकॉर्ड",
+    service1: "दवाइयां",
+
     service1Desc:
-      "अपने मेडिकल दस्तावेज़ों को एक सुरक्षित जगह पर स्टोर और मैनेज करें।",
+      "आपकी स्वास्थ्य जरूरतों के लिए गुणवत्तापूर्ण दवाइयां।",
 
-    service2: "त्वरित स्वास्थ्य एक्सेस",
+
+    service2: "पर्ची सहायता",
+
     service2Desc:
-      "अपने MediQR प्रोफाइल के माध्यम से स्वास्थ्य जानकारी कभी भी देखें।",
+      "अपनी मेडिकल पर्ची से जुड़ी सहायता प्राप्त करें।",
 
-    service3: "सुरक्षित और निजी",
+
+    service3: "स्वास्थ्य उत्पाद",
+
     service3Desc:
-      "आपका मेडिकल डेटा सुरक्षित डिजिटल स्टोरेज के साथ सुरक्षित रहता है।",
+      "आपकी दैनिक स्वास्थ्य जरूरतों के लिए उपयोगी उत्पाद।",
 
-    aboutTitle: "MediQR के बारे में",
+
+    aboutTitle: "हमारे बारे में",
+
     aboutDescription:
-      "MediQR आपके मेडिकल रिकॉर्ड को सुरक्षित और आसान तरीके से डिजिटल रूप में स्टोर, मैनेज और एक्सेस करने में मदद करता है।",
+      "माँ पीताम्बरा मेडिकल स्टोर आपके परिवार के स्वास्थ्य के लिए एक भरोसेमंद स्वास्थ्य साथी है। हम गुणवत्तापूर्ण दवाइयां, वास्तविक स्वास्थ्य उत्पाद और विश्वसनीय सहायता प्रदान करते हैं। हमारा उद्देश्य सुरक्षित, सुविधाजनक और ग्राहक-केंद्रित फार्मेसी सेवाओं के माध्यम से बेहतर स्वास्थ्य देखभाल प्रदान करना है।",
+
 
     contactTitle: "संपर्क करें",
-    address: "माँ पीतांबरा मेडिकल स्टोर, गोरमी",
-    phone: "9713909461",
-    email: "romeesin@gmail.com",
+
+    addressLabel: "पता",
+
+    address:
+      "गोरमी मेन रोड, गोरमी, मध्य प्रदेश 477660",
+
+
+    phoneLabel: "फोन",
+
+    emailLabel: "ईमेल",
+
+    instagramLabel: "इंस्टाग्राम",
+
+
+    findUs: "हमें खोजें",
+
+
+    qrTitle:
+      "माँ पीताम्बरा मेडिकल स्टोर QR",
+
+
+    qrDescription:
+      "इस QR कोड को स्कैन करके माँ पीताम्बरा मेडिकल स्टोर की आधिकारिक डिजिटल प्रोफाइल तुरंत खोलें।",
+
 
     hoursTitle: "खुलने का समय",
-    timing: "सोमवार - रविवार: सुबह 8 बजे - रात 9 बजे",
-    sunday: "रविवार: खुला है",
+
+
+    timing:
+      "सोमवार - रविवार : सुबह 8:30 बजे - रात 9:00 बजे",
+
+
+    sunday:
+      "",
+
   },
 };
 

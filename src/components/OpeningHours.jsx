@@ -5,21 +5,21 @@ function OpeningHours() {
   const lang = getLanguage();
 
   return (
-    <section className="py-16 px-6">
+    <section className="py-16 px-6 bg-white">
       <div className="max-w-5xl mx-auto text-center">
 
-        <h2 className="text-3xl font-bold mb-6">
+        <h2 className="text-3xl font-bold text-green-700 mb-8">
           {translations[lang].hoursTitle}
         </h2>
 
-        <div className="bg-white p-6 rounded-xl shadow">
+        <div className="bg-gray-50 p-8 rounded-2xl shadow-lg">
 
-          <p className="text-lg">
-            🕒 {translations[lang].timing}
+          <p className="text-xl font-medium text-gray-800">
+            {translations[lang].timing}
           </p>
 
-          <p className="text-lg mt-3">
-            📅 {translations[lang].sunday}
+          <p className="mt-4 text-lg font-semibold text-green-700">
+            {translations[lang].sunday}
           </p>
 
         </div>
